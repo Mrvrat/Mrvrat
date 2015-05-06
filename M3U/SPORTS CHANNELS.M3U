@@ -1,0 +1,273 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="FOX SPORTS.png,FOX SPORTS (Not English)
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="FOX SPORTS 2.png,FOX SPORTS 2 ( Not English )
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, ESPN2 (English)
+http://78.129.179.33:1935/edge/522/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
+
+#EXTINF:-1 , TSN
+http://198.27.94.105/hls/tsnn1_1.m3u8
+
+
+#EXTINF:-1,BeinSports 1
+http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?husham.com
+#EXTINF:-1,BeinSports 2 ( English )
+http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
+
+
+#EXTINF:-1,ESPN BaseBall Today
+http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8
+
+#EXTINF:-1,ESPN Football Today
+http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
+
+
+#EXTINF:-1,Fox Sport News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8?husham.com
+
+#EXTINF:-1, PAC-12 Anistorpic
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,PAC 12 Arizona HD 
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1,Pac 12 Arizona HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1,PAC 12 Bay Area HD
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,Pac 12 Bay Area 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC 12 Los Angeles HD ( 1080 )
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1,PAC 12 Mountain HD ( 1080 ) 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,PAC 12 National HD ( 1080 )
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,Pac 12 National HD ( 1080 )
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,PAC 12 Oregon HD ( 1080 )
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+
+#EXTINF:-1,PAC 12 Arizona (HD link 1)
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,Pac 12 Arizona (HD link 2)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC 12 Bay Area (HD)
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC 12 Los Angeles (HD)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,PAC 12 Mountain (HD)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC 12 National (HD link 1)
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,Pac 12 National (HD link 2)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC 12 Washington (HD)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1 , Big Ten Network HD (720)
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+
+#EXTINF:-1,tyson ( Link 1 )
+http://hls.cn.ru/streaming/futbol/tvrec/playlist.m3u8?husham.com
+
+#EXTINF:-1, Tyson ( Link 2 )
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8?husham.com
+
+#EXTINF:-1, tyson ( Link 3 )
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8?husham.com
+
+
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?husham.com
+
+#EXTINF:-1,Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+
+#EXTINF:-1,Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+
+#EXTINF:-1,Rai Premium
+mmsh://212.162.68.162/rai_premium
+
+#EXTINF:-1,Rai Scuola
+mmsh://212.162.68.163:80/rai_scuola
+
+
+#EXTINF:-1,Rai Storia
+mmsh://212.162.68.163/rai_storia
+
+
+#EXTINF:-1,Anistorpic
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Sport Time TV1 HD Ddeutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1,Sport Time TV2 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1,Sport Time TV3 HQ Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1,Sport Time TV4 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+
+#EXTINF:-1,Sport Time TV5 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+
+#EXTINF:-1,Sport Time TV 6 HD Deuchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+#EXTINF:-1,Sport Time TV 7 HD Deutchland
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
+#EXTINF:-1, Kanal Sports HD (720 )
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?husham.com
+
+
+#EXTINF:-1,Antena 3 Sports 720 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
+
+
+#EXTINF:-1,IRAK Iraqiya Sport 
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+#EXTINF:-1,AD Sports 2 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+#EXTINF:-1,Dubai Sports 3 (UAE)
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+#EXTINF:-1,Dubai Racing (UAE)
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+#EXTINF:-1,ARABIC-BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,ARABIC-Dubai Racing
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
+#EXTINF:-1,ARABIC-Dubai Sports 3
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+#EXTINF:-1,ARABIC-KTV Sport Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#EXTINF:-1,ARABIC-KTV Sport Plus
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
+ 
+
+
+
+#EXTINF:-1,BRASIL-ESPN+
+rtmp://31.204.128.74/live/master27
+#EXTINF:-1,BRASIL-FOX SPORTS
+rtmp://31.204.153.72/live/fsb
+#EXTINF:-1,BRASIL-TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+
+#EXTINF:-1,Czech O Sport
+http://212.79.96.134:8014/
+#EXTINF:-1,Czech Sport 5
+http://212.79.96.134:8023/
+#EXTINF:-1,Czech-O Sport
+http://212.79.96.134:8014/
+ 
+ 
+#EXTINF:-1,PORSCHE CHANNEL mms
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1,AutoSport TV mms
+mms://100automoto.tv/100livesport
+#EXTINF:-1,BMW CHANNEL Italia mms
+mms://100automoto.tv/bmw
+
+#EXTINF:-1,Motorsport 7 Channel Australia
+http://motorsport.hopto.org:8080/
+
+
+#EXTINF:-1,ENG-Ghetto Kid(Low Quality)
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1,ENG-MMA BAY TV(Low Quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1,MMA(Low Quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1,GREEK-TILESPORT (low quality)
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+
+#EXTINF:-1,ARABIC-MBC Pro Sports 1 [COLOR red]link_down[/COLOR]
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 2[COLOR red]link_down[/COLOR]
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 3[COLOR red]link_down[/COLOR]
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1,ARABIC-MBC Pro Sports 4[COLOR red]link_down[/COLOR]
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
