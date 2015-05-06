@@ -1,30 +1,45 @@
 EXTM3U
+
 #EXTINF:-1,ABRUZZO: Tele Ponte
 rtmp://$OPT:rtmp-raw=rtmp://streamingpulse.biz:1935/8024 playpath=8024 swfUrl=http://www.tvdream.net/web-tv/strobemedia/StrobeMediaPlayback.swf pageUrl=http://www.tvdream.net/channel/telep/ live=1
+
 #EXTINF:-1,ABRUZZO: TV Uno Aq
 mmsh://159.253.145.182/tvunoaq?MSWMExt=.asf
+
 #EXTINF:-1,ABRUZZO: Onda TV
 mmsh://173.255.137.7/ondatv?MSWMExt=.asf
+
 #EXTINF:-1,BASILICATA: TRM
 rtmp://$OPT:rtmp-raw=rtmp://flash.streamingmedia.it/TRM playpath=livestream swfUrl=http://lihattv.us/scripts/videogallery.swf live=1 pageUrl=http://lihattv.us/?ch=it
+
 #EXTINF:-1,CALABRIA: Calabria Channel
 rtmp://$OPT:rtmp-raw=rtmp://fl1.mediastreaming.it/calabriachannel/ playpath=livestream swfUrl=http://lihattv.us/scripts/videogallery.swf pageUrl=http://lihattv.us/?ch=it live=1
+
 #EXTINF:-1,CALABRIA: Tele Diogene
 rtmp://$OPT:rtmp-raw=rtmp://wms.shared.streamshow.it:1935/telediogene/telediogene
+
 #EXTINF:-1,CAMPANIA: TV Oggi
 rtmp://live.cdnplayer.com:1935/live691/streamlivetvoggi
+
 #EXTINF:-1,CAMPANIA: Tele Luna
 rtmp://$OPT:rtmp-raw=rtmp://vs2.streamcaster.net:1935/test_live playpath=teleluna swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/ live=1
+
+
 #EXTINF:-1,EMILIA ROMAGNA: Teletricolore
 rtmp://$OPT:rtmp-raw=rtmp://fms.shared.streamshow.it/teletricolore playpath=teletricolore swfUrl=http://fms.player.streamshow.it/jwplayer/player.swf pageUrl=http://www.teletricolore.com/video.html live=1
+
 #EXTINF:-1,EMILIA ROMAGNA: Tele Romagna
 rtmp://$OPT:rtmp-raw=rtmp://live.teleromagna.it/TeleromagnaLive playpath=teleromagna.stream_360p swfUrl=http://www.teleromagna.it/livetvsrc/player.swf pageUrl=http://www.teleromagna.it/livetvsrc/stream_home20121114.html live=1
+
 #EXTINF:-1,EMILIA ROMAGNA: Telestense
-http://iphone-streaming.ustream.tv/u.../playlist.m3u8
+http://iphone-streaming.ustream.tv/u.../playlist.m3uhttps://github.com/Mrvrat/Mrvrat8
+
 #EXTINF:-1,EMILIA ROMAGNA: Tele Studio Modena
 rtmp://$OPT:rtmp-raw=rtmp://fms2.shared.streamshow.it/telestudiomo/telestudiomo
+
 #EXTINF:-1,EMILIA ROMAGNA: TRC Tele Modena
 rtmp://$OPT:rtmp-raw=rtmp://194.116.72.52/webtv_live playpath=VC3TCRHI9LNP swfUrl=http://stream.senape.tv/scripts/player.swf pageUrl=http://www.trc.modena.it/ live=1
+
 #EXTINF:-1,EMILIA ROMAGNA: Icaro TV
 rtmp://live.cdnplayer.com:1935/live725/streamitliveicarotv
 #EXTINF:-1,EMILIA ROMAGNA: Tele_1
