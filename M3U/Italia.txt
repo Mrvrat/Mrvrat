@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 
 #EXTINF:-1,ABRUZZO: Tele Ponte
 rtmp://$OPT:rtmp-raw=rtmp://streamingpulse.biz:1935/8024 playpath=8024 swfUrl=http://www.tvdream.net/web-tv/strobemedia/StrobeMediaPlayback.swf pageUrl=http://www.tvdream.net/channel/telep/ live=1
