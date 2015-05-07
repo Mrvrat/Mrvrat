@@ -1,31 +1,38 @@
 
 #EXTM3U
 
-
-#EXTINF:-1,Canale 5 Mediaset
-rtmp://5.189.144.85/live?auth=da0068cea060abc1dfe9bbbb20ac5dae1705f614c3cc60c58e4782c40e874a12//canale5
-
 #EXTINF:-1,Rai 1
 rtmp://5.189.144.85/live?auth=a6577f98f205bccf500fc0852d3161eb37ecba26f0daaf7b7abacc64c974b30f//rai1
 
 #EXTINF:-1,Rai 2
 rtmp://5.189.144.85/live?auth=d2829c3f6927664d05cec1cef83eb8b1e1d61dca9379d1ab93b376519eee2eef//rai2
 
-
-#EXTINF:-1,Boing
-rtmp://5.189.144.85/live?auth=506df7a38e7770922fac0d6221af623602f35b5cb0ab22cae796f19cc4d4607b//boing
+#EXTINF:-1,Rai 3
+rtmp://5.189.144.85/live?auth=708761a888c1b97120e1e0003e81f2ef45893777bbf9c7cf4f5a3e9947962ee6//rai3
 
 #EXTINF:-1,Rai 4
 rtmp://5.189.144.85/live?auth=29d9403ce21fa76dfe67d45b6b71cb55ef8277849b8395bc73dcdf9bc765b46e//rai4
 
+#EXTINF:-1, Rai Storia
+rtmp://5.189.144.85/live?auth=dd43c14cd1cf2875f25ba0efb4a654da1af4ee861fa3d627fe3d8a82bf6a568a//raistoria
+
+#EXTINF:-1,Rai Premium
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+
+#EXTINF:-1,Rai News 24
+rtmp://5.189.144.85/live?auth=db5ee9e9716583cdb0118b16b541d8045f8709a22f1a3525415ece8562ea702d//rainews
+
+#EXTINF:-1,Rai Yoyo
+mmsh://212.162.68.162/rai_yoyo
+
+#EXTINF:-1,Rai Gulp TV 
+mmsh://212.162.68.163/Rai_gulp
+
 #EXTINF:-1,Iris Mediaset
 rtmp://5.189.144.85/live?auth=90a31afbb382ffba2b1e03b773b2ecc51d0562cef446e5efd09c1ec16ba5c2d0//iris
 
-#EXTINF:-1,Rai 3
-rtmp://5.189.144.85/live?auth=708761a888c1b97120e1e0003e81f2ef45893777bbf9c7cf4f5a3e9947962ee6//rai3
-
-#EXTINF:-1,RSI LA 2
-rtmp://5.189.144.85/live?auth=94c1874041a5ab79a6ad0dbe60039ccfb41a19cf6db5d0d3b580d0ba44a410f5//rsila2
+#EXTINF:-1,Canale 5 Mediaset
+rtmp://5.189.144.85/live?auth=da0068cea060abc1dfe9bbbb20ac5dae1705f614c3cc60c58e4782c40e874a12//canale5
 
 #EXTINF:-1,La 5 Mediaset
 rtmp://5.189.144.85/live?auth=c27439b29e5c7e51ecf496f999d85ae64c9c6f004369c2056060ec9514bb7c22//la5
@@ -33,11 +40,20 @@ rtmp://5.189.144.85/live?auth=c27439b29e5c7e51ecf496f999d85ae64c9c6f004369c20560
 #EXTINF:-1,RSI LA 1
 rtmp://5.189.144.85/live?auth=36ae2b566a349dad074f5a1919cc435c771c4570a50dbf358a6d53f201742ff0//rsila1
 
-#EXTINF:-1,Rai News 24
-rtmp://5.189.144.85/live?auth=db5ee9e9716583cdb0118b16b541d8045f8709a22f1a3525415ece8562ea702d//rainews
+#EXTINF:-1,RSI LA 2
+rtmp://5.189.144.85/live?auth=94c1874041a5ab79a6ad0dbe60039ccfb41a19cf6db5d0d3b580d0ba44a410f5//rsila2
+
+#EXTINF:-1,La6
+http://la6.stream.internetone.it:1935/streaming/la6.stream/playlist.m3u8?wowzasessionid=1212260941
+
+#EXTINF:-1,La 6 TV
+rtmp://la6.stream.internetone.it/streaming/la6.stream
 
 #EXTINF:-1,La7 Prima
 rtmp://5.189.144.85/live?auth=5abf22365495d11c8474ff526173d0a10d23cb07b6335b31139452a0f52c33c2//la7
+
+#EXTINF:-1,Boing
+rtmp://5.189.144.85/live?auth=506df7a38e7770922fac0d6221af623602f35b5cb0ab22cae796f19cc4d4607b//boing
 
 #EXTINF:-1,Cielo
 rtmp://5.189.144.85/live?auth=42d7b80f06deb3e5232b6ef071d842eff19513b6bd667d4520eb87d31ab35677//cielo
@@ -51,34 +67,20 @@ rtmp://5.189.144.85/live?auth=5e5d6268cdfc43ea97361d556e289fd645db278be8d398f92f
 #EXTINF:-1,Canale Italia 83
 rtmp://5.189.144.85/live?auth=21e46fb9589ea28ebc49365a74dc7c7d5dc8ad00d9f20d54e49a2072f9c81b1b//canaleit
 
-#EXTINF:-1,Frisbee Mini
+#EXTINF:-1,Frisbee
 rtmp://5.189.144.85/live?auth=82698d90119c3178ebf8e0d6fe34d12b368e2f83c5a97c4d8aa93194b99bd1fe//frisbee
 
 #EXTINF:-1,TeleTicino
 http://rtmp.infomaniak.ch/livecast/teleticinolive/chunklist_w1912365364.m3u8
 
-#EXTINF:-1,La6
-http://la6.stream.internetone.it:1935/streaming/la6.stream/playlist.m3u8?wowzasessionid=1212260941
 
 #EXTINF:-1,Canale 7
 http://fms.shared.streamshow.it/canale7/canale7/chunklist_w1486635761.m3u8
 
-#EXTINF:-1, Storia
-rtmp://5.189.144.85/live?auth=dd43c14cd1cf2875f25ba0efb4a654da1af4ee861fa3d627fe3d8a82bf6a568a//raistoria
-
 #EXTINF:-1,Quartarete TV
 http://194.116.73.146/quartaretetv/quartareteweb/playlist.m3u8
 
-#EXTINF:-1,Rai Yoyo
-mmsh://212.162.68.162/rai_yoyo
-
-#EXTINF:-1,Rai Gulp TV mmsh
-mmsh://212.162.68.163/Rai_gulp
-
-#EXTINF:-1,Rai Premium mmsh
-mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
-
-#EXTINF:-1,Rock One mms
+#EXTINF:-1,Rock One
 mmsh://mediatv2.topix.it/24RockOne66
 
 #EXTINF:-1,Alto Adige TV
@@ -104,7 +106,5 @@ rtmp://91.121.222.160/teleboariotb/teleboario.sdp
 #EXTINF:-1,Radio Italia
 rtmp://cwedge.cdcache.net/cwedge/rilive
 
-#EXTINF:-1,La 6 TV
-rtmp://la6.stream.internetone.it/streaming/la6.stream
 
 
