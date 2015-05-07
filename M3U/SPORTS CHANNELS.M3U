@@ -1,6 +1,53 @@
 #EXTM3U
 
-
+#EXTINF:-1,ALICE
+http://81.92.105.135:5555/pl.m3u8?channel=509
+#EXTINF:-1,ALICE Provvisorio
+http://94.198.255.211:5555/pl.m3u8?channel=509
+#EXTINF:-1,Alto Adige TV
+rtmp://77.72.196.214:8554/live/mp4:AltoAdigeTV
+#EXTINF:-1,ANTENNATRE
+http://94.198.255.211:5555/pl.m3u8?channel=503
+#EXTINF:-1,ANTENNATRE
+http://81.92.105.135:5555/pl.m3u8?channel=503
+#EXTINF:-1,Boing
+http://94.198.255.211:5555/pl.m3u8?channel=510
+#EXTINF:-1,Boing
+http://81.92.105.135:5555/pl.m3u8?channel=510
+#EXTINF:-1,Camera dei Deputati
+rtmp://cp143725.live.edgefcs.net/live/Camera_Aula@29554
+#EXTINF:-1,Canale5
+http://94.198.255.211:5555/pl.m3u8?channel=532
+#EXTINF:-1,Canale5
+http://81.92.105.135:5555/pl.m3u8?channel=532
+#EXTINF:-1,Cartoonito
+http://94.198.255.211:5555/pl.m3u8?channel=512
+#EXTINF:-1,Cartoonito
+http://81.92.105.135:5555/pl.m3u8?channel=512
+#EXTINF:-1,Cielo
+http://skyianywhere2-i.akamaihd.net/.../playlist.m3u8
+#EXTINF:-1,ClassTv
+http://81.92.105.135:5555/pl.m3u8?channel=514
+#EXTINF:-1,frisbee
+http://94.198.255.211:5555/pl.m3u8?channel=517
+#EXTINF:-1,frisbee
+http://81.92.105.135:5555/pl.m3u8?channel=517
+#EXTINF:-1,HSE24
+http://94.198.255.211:5555/pl.m3u8?channel=524
+#EXTINF:-1,HSE24
+http://81.92.105.135:5555/pl.m3u8?channel=524
+#EXTINF:-1,Iris
+http://94.198.255.211:5555/pl.m3u8?channel=508
+#EXTINF:-1,Iris
+http://81.92.105.135:5555/pl.m3u8?channel=508
+#EXTINF:-1,Italia Due
+http://81.92.105.135:5555/pl.m3u8?channel=526
+#EXTINF:-1,Italia1
+http://94.198.255.211:5555/pl.m3u8?channel=533
+#EXTINF:-1,Italia1
+http://81.92.105.135:5555/pl.m3u8?channel=533
+#EXTINF:-1,K2
+http://94.198.255.211:5555/pl.m3u8?channel=518_______________
 
 #EXTINF:-1 tvg-logo="FOX SPORTS.png,FOX SPORTS (Not English)
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?

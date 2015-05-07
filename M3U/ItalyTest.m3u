@@ -1,0 +1,256 @@
+#EXTINF:-1,Roma uno
+http://188.40.2.148:1935/romauno/live.sdp/playlist.m3u8
+#EXTINF:-1,Quartarete TV
+http://194.116.73.146/quartaretetv/quartareteweb/playlist.m3u8
+#EXTINF:-1,Alto Adige TV
+http://77.72.196.214:8554/live/mp4:AltoAdigeTV/playlist.m3u8
+#EXTINF:-1,LA5 LONG START TIME
+http://81.196.63.226:1935/live/rkst2_4.stream/playlist.m3u8
+#EXTINF:-1,TGCOM24 LONG START TIME
+http://81.196.63.226:1935/live/rkst2_5.stream/playlist.m3u8
+#EXTINF:-1,ITALIA 1 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_1.stream/playlist.m3u8
+#EXTINF:-1,Canale 5 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_2.stream/playlist.m3u8
+#EXTINF:-1,RETE 4 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_3.stream/playlist.m3u8
+#EXTINF:-1,LA 7 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_4.stream/playlist.m3u8
+#EXTINF:-1,MARCOPOLO LONG START TIME
+http://81.196.63.226:1935/live/rkst3_5.stream/playlist.m3u8
+#EXTINF:-1,Rai 1 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_1.stream/playlist.m3u8
+#EXTINF:-1,RAI 2 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_2.stream/playlist.m3u8
+#EXTINF:-1,Rai 3 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_3.stream/playlist.m3u8
+#EXTINF:-1,Rai 4 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_4.stream/playlist.m3u8
+#EXTINF:-1,IRIS LONG START TIME
+http://81.196.63.226:1935/live/rkst5_1.stream/playlist.m3u8
+#EXTINF:-1,BOING LONG START TIME
+http://81.196.63.226:1935/live/rkst5_2.stream/playlist.m3u8
+#EXTINF:-1,MEDIASET EXTRA LONG START TIME
+http://81.196.63.226:1935/live/rkst5_3.stream/playlist.m3u8
+#EXTINF:-1,Mediaset Italia 2 LONG START TIME
+http://81.196.63.226:1935/live/rkst5_4.stream/playlist.m3u8
+#EXTINF:-1,Top Crime LONG START TIME
+http://81.196.63.226:1935/live/rkst5_5.stream/playlist.m3u8
+#EXTINF:-1,Telemilano
+http://91.121.222.160:1935/piublu/piublu.sdp/playlist.m3u8
+#EXTINF:-1,TRM TV
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:-1,Canale_7
+http://fms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1,TelePavia
+http://fms.shared.streamshow.it:1935/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1,TV UNO
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1,Quartarete
+http://wowza1.top-ix.org/quartaretetv/quartareteweb/playlist.m3u8
+#EXTINF:-1,RETESOLE Roma mms
+mms://streaming1.bsnewline.com/retesoleroma
+#EXTINF:-1,Rai Yoyo mms
+mmsh://212.162.68.162/rai_yoyo
+#EXTINF:-1,Rai Gulp TV mmsh
+mmsh://212.162.68.163/Rai_gulp
+#EXTINF:-1,Rai Storia mmsh
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+#EXTINF:-1,Rai Premium mmsh
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+#EXTINF:-1,Rai Scuola mmsh
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+#EXTINF:-1,Iper tv mmsh
+mmsh://mediatv2.topix.it/24Ipertv66
+#EXTINF:-1,Rock One mms
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Trentino TV
+rtmp://$OPT:rtmp-raw=rtmp://77.72.196.214:8554/live playpath=TrentinoTV swfUrl=http://www.trentinotv.it/flowplayer/flowplayer-3.2.7.swf pageUrl=http://www.trentinotv.it/ live=1
+#EXTINF:-1,Sardegna_1
+rtmp://$OPT:rtmp-raw=rtmp://94.32.101.17/sardegna1 playpath=live1.stream swfUrl=http://www.sardegna1.tv/flowplayer-3.2.5.swf pageUrl=http://www.sardegna1.tv/page.php?id_page=146 live=1
+#EXTINF:-1,Super TV
+rtmp://$OPT:rtmp-raw=rtmp://fms.shared.streamshow.it:1935/supertv/supertv
+#EXTINF:-1,Tele Pavia
+rtmp://$OPT:rtmp-raw=rtmp://fms.shared.streamshow.it:1935/telepavia/ playpath=telepavia swfUrl=http://lihattv.us/scripts/videogallery.swf pageUrl=http://lihattv.us/?ch=it
+#EXTINF:-1,Onda TV
+rtmp://$OPT:rtmp-raw=rtmp://live.streamcaster.net/ondatv_live playpath=ondatv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.ondatv.it/ live=1
+#EXTINF:-1,RETE55
+rtmp://$OPT:rtmp-raw=rtmp://rete55.stream.internetone.it/streaming playpath=rete55.stream swfUrl=http://webtv.rete55news.tv/swf/player-5_8.swf pageUrl=http://webtv.rete55news.tv/
+#EXTINF:-1,Telecitta’
+rtmp://$OPT:rtmp-raw=rtmp://stream.telepadova.com/live/ playpath=tv1 swfUrl=http://www.telecitta.tv/swf/video.swf pageUrl=http://www.telecitta.tv/diretta-web-telecitta live=1
+#EXTINF:-1,Tele Luna
+rtmp://$OPT:rtmp-raw=rtmp://vs2.streamcaster.net:1935/test_live playpath=teleluna swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/ live=1
+#EXTINF:-1,Tele Arena
+rtmp://$OPT:rtmp-raw=rtmp://wma07.fluidstream.net/TeleArena playpath=livestream swfUrl=http://media.larena.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.larena.it/publisher/645_live/section/ live=1
+#EXTINF:-1,Video Brescia
+rtmp://$OPT:rtmp-raw=rtmp://wms.shared.streamshow.it/videobrescia/videobrescia
+#EXTINF:-1,Tele Diogene
+rtmp://$OPT:rtmp-raw=rtmp://wms.shared.streamshow.it:1935/telediogene/telediogene
+#EXTINF:-1,Quartarete
+rtmp://$OPT:rtmp-raw=rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb swfUrl=http://lihattv.us/scripts/videogallery.swf live=1 pageUrl=http://lihattv.us/?ch=it
+#EXTINF:-1,OTTO FM TV
+rtmp://8fm.stream.internetone.it/streaming/8fm.stream
+#EXTINF:-1,TeleBoario
+rtmp://91.121.222.160/teleboariotb/teleboario.sdp
+#EXTINF:-1,Radio Italia
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:-1,La 6 TV
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+#EXTINF:-1,***playlist IPTV***AVRUPA-EUROPA***
+http://01.gen.tr/playlist_IPTV/turkiye.mp4
+#EXTINF:-1,TF1 HD
+http://82.135.224.134:80/udp/239.102.0.1:1234?by_playlist
+#EXTINF:-1,NT1
+http://82.135.224.134:80/udp/239.102.0.10:1234?by_playlist
+#EXTINF:-1,Hits Apocalypse
+http://82.135.224.134:80/udp/239.102.0.103:1234?by_playlist
+#EXTINF:-1,Cinema Comedy
+http://82.135.224.134:80/udp/239.102.0.104:1234?by_playlist
+#EXTINF:-1,NRJ12
+http://82.135.224.134:80/udp/239.102.0.11:1234?by_playlist
+#EXTINF:-1,LCP
+http://82.135.224.134:80/udp/239.102.0.12:1234?by_playlist
+#EXTINF:-1,deux HD
+http://82.135.224.134:80/udp/239.102.0.128:1234?by_playlist
+#EXTINF:-1,France 4
+http://82.135.224.134:80/udp/239.102.0.13:1234?by_playlist
+#EXTINF:-1,Fox
+http://82.135.224.134:80/udp/239.102.0.143:1234?by_playlist
+#EXTINF:-1,CANAL+ GOLF
+http://82.135.224.134:80/udp/239.102.0.161:1234?by_playlist
+#EXTINF:-1,CANAL ODISEA
+http://82.135.224.134:80/udp/239.102.0.162:1234?by_playlist
+#EXTINF:-1,PLAYBOY TV
+http://82.135.224.134:80/udp/239.102.0.163:1234?by_playlist
+#EXTINF:-1,NAT GEOGRAPH
+http://82.135.224.134:80/udp/239.102.0.164:1234?by_playlist
+#EXTINF:-1,C+ F?TBOL
+http://82.135.224.134:80/udp/239.102.0.165:1234?by_playlist
+#EXTINF:-1,C+ DEPORTES
+http://82.135.224.134:80/udp/239.102.0.166:1234?by_playlist
+#EXTINF:-1,CANAL+ LIGA
+http://82.135.224.134:80/udp/239.102.0.168:1234?by_playlist
+#EXTINF:-1,CANAL+ LIGA
+http://82.135.224.134:80/udp/239.102.0.169:1234?by_playlist
+#EXTINF:-1,CANAL DECASA
+http://82.135.224.134:80/udp/239.102.0.170:1234?by_playlist
+#EXTINF:-1,SYFY
+http://82.135.224.134:80/udp/239.102.0.171:1234?by_playlist
+#EXTINF:-1,Sky Comedy
+http://82.135.224.134:80/udp/239.102.0.190:1234?by_playlist
+#EXTINF:-1,Sky Action
+http://82.135.224.134:80/udp/239.102.0.191:1234?by_playlist
+#EXTINF:-1,Sky Cinema
+http://82.135.224.134:80/udp/239.102.0.192:1234?by_playlist
+#EXTINF:-1,Sky Cinema+1
+http://82.135.224.134:80/udp/239.102.0.193:1234?by_playlist
+#EXTINF:-1,Sky Emotion
+http://82.135.224.134:80/udp/239.102.0.194:1234?by_playlist
+#EXTINF:-1,Sky Cinema+24
+http://82.135.224.134:80/udp/239.102.0.195:1234?by_playlist
+#EXTINF:-1,France 2 HD
+http://82.135.224.134:80/udp/239.102.0.2:1234?by_playlist
+#EXTINF:-1,Kinowelt TV
+http://82.135.224.134:80/udp/239.102.0.202:1234?by_playlist
+#EXTINF:-1,TNT Film (TCM)
+http://82.135.224.134:80/udp/239.102.0.203:1234?by_playlist
+#EXTINF:-1,AXN Action
+http://82.135.224.134:80/udp/239.102.0.204:1234?by_playlist
+#EXTINF:-1,Romance TV
+http://82.135.224.134:80/udp/239.102.0.205:1234?by_playlist
+#EXTINF:-1,Cartoon Network (S)
+http://82.135.224.134:80/udp/239.102.0.206:1234?by_playlist
+#EXTINF:-1,Boomerang
+http://82.135.224.134:80/udp/239.102.0.207:1234?by_playlist
+#EXTINF:-1,A&E
+http://82.135.224.134:80/udp/239.102.0.208:1234?by_playlist
+#EXTINF:-1,Sky Action
+http://82.135.224.134:80/udp/239.102.0.21:1234?by_playlist
+#EXTINF:-1,TVP INFO
+http://82.135.224.134:80/udp/239.102.0.211:1234?by_playlist
+#EXTINF:-1,TVP Polonia
+http://82.135.224.134:80/udp/239.102.0.213:1234?by_playlist
+#EXTINF:-1,TVP Historia
+http://82.135.224.134:80/udp/239.102.0.214:1234?by_playlist
+#EXTINF:-1,TVP Kultura
+http://82.135.224.134:80/udp/239.102.0.215:1234?by_playlist
+#EXTINF:-1,Sky Comedy
+http://82.135.224.134:80/udp/239.102.0.22:1234?by_playlist
+#EXTINF:-1,3ABN International
+http://82.135.224.134:80/udp/239.102.0.221:1234?by_playlist
+#EXTINF:-1,BVN
+http://82.135.224.134:80/udp/239.102.0.222:1234?by_playlist
+#EXTINF:-1,Soyuz TV
+http://82.135.224.134:80/udp/239.102.0.224:1234?by_playlist
+#EXTINF:-1,24-TV
+http://82.135.224.134:80/udp/239.102.0.225:1234?by_playlist
+#EXTINF:-1,Fashion One
+http://82.135.224.134:80/udp/239.102.0.226:1234?by_playlist
+#EXTINF:-1,Music Box Russia
+http://82.135.224.134:80/udp/239.102.0.227:1234?by_playlist
+#EXTINF:-1,KURDsat
+http://82.135.224.134:80/udp/239.102.0.228:1234?by_playlist
+#EXTINF:-1,MKTV sat
+http://82.135.224.134:80/udp/239.102.0.229:1234?by_playlist
+#EXTINF:-1,Sky ScFi/Horror
+http://82.135.224.134:80/udp/239.102.0.23:1234?by_playlist
+#EXTINF:-1,Thai Global Network
+http://82.135.224.134:80/udp/239.102.0.230:1234?by_playlist
+#EXTINF:-1,VTV4
+http://82.135.224.134:80/udp/239.102.0.231:1234?by_playlist
+#EXTINF:-1,Rojhelat
+http://82.135.224.134:80/udp/239.102.0.232:1234?by_playlist
+#EXTINF:-1,TVK
+http://82.135.224.134:80/udp/239.102.0.233:1234?by_playlist
+#EXTINF:-1,HCTV
+http://82.135.224.134:80/udp/239.102.0.234:1234?by_playlist
+#EXTINF:-1,Armenia TV
+http://82.135.224.134:80/udp/239.102.0.236:1234?by_playlist
+#EXTINF:-1,NETVIET
+http://82.135.224.134:80/udp/239.102.0.237:1234?by_playlist
+#EXTINF:-1,Sky Select
+http://82.135.224.134:80/udp/239.102.0.24:1234?by_playlist
+#EXTINF:-1,H2
+http://82.135.224.134:80/udp/239.102.0.25:1234?by_playlist
+#EXTINF:-1,Sky Disney
+http://82.135.224.134:80/udp/239.102.0.26:1234?by_playlist
+#EXTINF:-1,Sky Family
+http://82.135.224.134:80/udp/239.102.0.27:1234?by_playlist
+#EXTINF:-1,Sky Premiere
+http://82.135.224.134:80/udp/239.102.0.28:1234?by_playlist
+#EXTINF:-1,Sky Prem+1
+http://82.135.224.134:80/udp/239.102.0.29:1234?by_playlist
+#EXTINF:-1,France 3
+http://82.135.224.134:80/udp/239.102.0.3:1234?by_playlist
+#EXTINF:-1,Sky Greats
+http://82.135.224.134:80/udp/239.102.0.32:1234?by_playlist
+#EXTINF:-1,France 5
+http://82.135.224.134:80/udp/239.102.0.4:1234?by_playlist
+#EXTINF:-1,M6 HD
+http://82.135.224.134:80/udp/239.102.0.5:1234?by_playlist
+#EXTINF:-1,Cinema 1
+http://82.135.224.134:80/udp/239.102.0.61:1234?by_playlist
+#EXTINF:-1,Cinema Family
+http://82.135.224.134:80/udp/239.102.0.63:1234?by_playlist
+#EXTINF:-1,Cinema +24
+http://82.135.224.134:80/udp/239.102.0.64:1234?by_playlist
+#EXTINF:-1,Cinema Classics
+http://82.135.224.134:80/udp/239.102.0.65:1234?by_playlist
+#EXTINF:-1,Disney Ch. +2
+http://82.135.224.134:80/udp/239.102.0.67:1234?by_playlist
+#EXTINF:-1,Cinema Max
+http://82.135.224.134:80/udp/239.102.0.68:1234?by_playlist
+#EXTINF:-1,D8
+http://82.135.224.134:80/udp/239.102.0.7:1234?by_playlist
+#EXTINF:-1,Discovery
+http://82.135.224.134:80/udp/239.102.0.70:1234?by_playlist
+#EXTINF:-1,Disney Junior
+http://82.135.224.134:80/udp/239.102.0.74:1234?by_playlist
+#EXTINF:-1,W9
+http://82.135.224.134:80/udp/239.102.0.8:1234?by_playlist
+#EXTINF:-1,TMC
+http://82.135.224.134:80/udp/239.102.0.9:1234?by_playlist
+#EXTINF:-1,MTV Hits
+http://82.135.224.134:80/udp/239.102.0.96:1234?by_playlist
+#EXTINF:-1,Sky Uno
+http://82.135.224.134:80/udp/239.102.0.99:1234?by_playlist
